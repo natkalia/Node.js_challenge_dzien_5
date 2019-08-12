@@ -1,0 +1,14 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "CodersLab Node.js challenge Day 5",
+  "main": "zadanie01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natkalia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
